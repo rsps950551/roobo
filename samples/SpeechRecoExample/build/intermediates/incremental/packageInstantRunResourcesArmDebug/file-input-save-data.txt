@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Tue Mar 13 21:44:38 CST 2018
+2.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\assets\\arm\\debug
+5.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+6.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\assets\\arm\\debug\\whatstheweatherlike.wav
+2.set=ASSET
+4.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+count=7
+0.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\assets\\arm\\debug
+1.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\layout\\activity_main.xml
+1.set=ANDROID_RESOURCE
+2.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\assets\\arm\\debug\\batman.wav
+6.set=ASSET
+0.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+3.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+4.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE

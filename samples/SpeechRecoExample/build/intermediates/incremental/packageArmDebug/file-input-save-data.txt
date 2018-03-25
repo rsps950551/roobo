@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Tue Mar 13 22:29:54 CST 2018
+2.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+5.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\menu\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\stripDebugSymbol\\arm\\debug\\folders\\2000\\1f\\main
+6.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\assets\\arm\\debug
+7.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+8.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\assets\\arm\\debug\\whatstheweatherlike.wav
+4.set=ASSET
+6.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+1.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\stripDebugSymbol\\arm\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libandroid_platform.so
+9.set=DEX
+9.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=NATIVE_RESOURCE
+7.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+2.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\res\\resources-arm-debug.ap_
+8.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\assets\\arm\\debug
+3.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\stripDebugSymbol\\arm\\debug\\folders\\2000\\1f\\main\\lib\\x86\\libandroid_platform.so
+3.set=NATIVE_RESOURCE
+1.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\stripDebugSymbol\\arm\\debug\\folders\\2000\\1f\\main
+9.base=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\1f\\main
+4.file=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\assets\\arm\\debug\\batman.wav
+8.set=ASSET
+0.set=ANDROID_RESOURCE

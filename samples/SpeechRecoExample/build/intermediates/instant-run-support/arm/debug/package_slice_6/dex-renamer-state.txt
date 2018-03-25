@@ -1,0 +1,4 @@
+#Tue Mar 13 21:34:18 CST 2018
+base.0=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\5\\slice_6\\classes.dex

@@ -1,0 +1,7 @@
+#Tue Mar 13 21:34:17 CST 2018
+base.0=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\10\\SpeechSDK_025874ac499aa3ea154aaa1fb57f36cda204bdc5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\10\\classes_e7918dafd471c4577de825769aafd45d6ca3a46a\\classes.dex
+base.1=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\10\\classes_e7918dafd471c4577de825769aafd45d6ca3a46a
+file.0=D\:\\Cognitive-Speech-STT-Android-master\\samples\\SpeechRecoExample\\build\\intermediates\\transforms\\dex\\arm\\debug\\folders\\1000\\10\\SpeechSDK_025874ac499aa3ea154aaa1fb57f36cda204bdc5\\classes.dex

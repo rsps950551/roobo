@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\wmlabRyzan5-1600_1\.android\build-cache\09f5e543169c40982e4fc3cd554776e4605f5542\output\jars\libs\SpeechSDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c0acb42d159b8d56f429082659b3f9ce464bb88">
+        <dex dex="D:\Cognitive-Speech-STT-Android-master\samples\SpeechRecoExample\build\intermediates\pre-dexed\arm\debug\SpeechSDK_025874ac499aa3ea154aaa1fb57f36cda204bdc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wmlabRyzan5-1600_1\.android\build-cache\09f5e543169c40982e4fc3cd554776e4605f5542\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70f7b205c60f52e5adb02a540758a30f969f1d66">
+        <dex dex="D:\Cognitive-Speech-STT-Android-master\samples\SpeechRecoExample\build\intermediates\pre-dexed\arm\debug\classes_e7918dafd471c4577de825769aafd45d6ca3a46a.jar" />
+    </item>
+
+</items>
